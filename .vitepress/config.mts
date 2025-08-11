@@ -10,6 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '주택청약 민영주택', link: '/subscription' },
       { text: '생애최초 특별공급', link: '/firsthouse' },
+      { text: '주택청약 담보대출', link: '/loan' },
       // { text: '양주역 제일풍경채 위너스카이', link: '/jeil-yj' },
     ],
 
